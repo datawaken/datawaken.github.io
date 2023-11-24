@@ -8,6 +8,6 @@
 - 简单、清晰、快捷
 - 准实时更新
 
-[开始使用](/README.md)
 [数觉分析](https://datawake.ai)
+[开始使用](/README.md)
 
